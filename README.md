@@ -1,5 +1,6 @@
 ### 📋 What I do:
 * **Owner @ [Versa Development](https://versadevelopment.net)** ([Versa Panel](https://versapanel.net), [Versa Bot](https://versabot.net)) <br>
+* **Infrastructure Engineer @ [Hyrivals](https://hyrivals.gg)**
 
 ### 💭 Contact Me:
 - 📋 Contact me on [Discord](https://discord.com/users/383963385202606081)
